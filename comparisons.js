@@ -38,12 +38,14 @@ console.log("Is numberStudents greater than or equal to 21?", numberStudents >= 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO: Explain.
+// This line of code prints out the result of the comparative evaluation: "Is the variable friends greater than the variable siblings?"
+// This will evaluate to true.
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
-// YOU DO: Explain.
+// This line of code prints out the result of the comparative evaluation: "Is the variable attendees NOT equal to the variable meals?"
+// This will evaluate to true.
 
 
 // #-------------------
